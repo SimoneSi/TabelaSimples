@@ -1,0 +1,35 @@
+table{
+    margin: 20px auto;
+    font-size: 25px;
+    color: #fff;
+    width: 400px;
+   
+}
+caption{
+    font-size: 30px;
+    color: #000;
+    text-align: left;
+    font-weight: 900;
+    margin-bottom: 10px;
+
+}
+.cabecalho-moda{
+    background-color: #bb86fc;
+    text-align: left;  
+
+}
+
+.cabecalh-casa{
+    background-color: #00c4b4;
+    text-align: left;
+}
+
+th, td{
+    padding: 15px;
+    box-sizing: border-box;
+
+}
+
+tbody tr{
+    background-color:#424250 ;
+}
