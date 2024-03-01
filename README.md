@@ -1,4 +1,4 @@
-# Projete Tabela Simples
+# Projeto Tabela
 Atividade proposta pelo curso DevQuest frontend.
 
 ## Experiência
